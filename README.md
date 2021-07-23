@@ -4,4 +4,4 @@ wallpaper repository. Most of 'em "norded" through
 [ImageGoNord](https://ign.schrodinger-hat.it "ImageGoNord") website from
 [Schrödinger-Hat](https://github.com/Schrodinger-Hat).
 
-Previews of the wallpapers can be seen in [here](/wallpaper-preview).
+Previews of the wallpapers can be seen in [here](/wallpaper-preview.md).
