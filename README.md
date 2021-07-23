@@ -7,3 +7,10 @@ Most of 'em "norded" through
 [Schrödinger-Hat](https://github.com/Schrodinger-Hat).
 
 Previews of the wallpapers can be seen in [here](/wallpaper-preview.md).
+
+## Here is an example
+This is the original:
+![](https://images.unsplash.com/photo-1500338427510-5deb175987d2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1954&q=80)
+This is the result after being processed by ImageGoNord:
+![](wallpapers/ign_unsplash4.png)
+This one is my favourite :)
