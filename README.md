@@ -16,7 +16,6 @@ This is the result after being processed by ImageGoNord:
 This one is my favourite :)
 
 ### NOTE
-
 Unsplash images are under a free license. More info on the found [here](https://unsplash.com/license). Most images are processed through ImageGoNord which is under the
 MIT License. Does that make these MIT?
 
