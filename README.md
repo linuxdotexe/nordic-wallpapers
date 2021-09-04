@@ -15,6 +15,9 @@ This is the result after being processed by ImageGoNord:
 ![](wallpapers/ign_unsplash4.png)
 This one is my favourite :)
 
+## NOTICE
+This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬 
+
 ## NOTE
 Unsplash images are under a free license. More info on the found [here](https://unsplash.com/license). Most images are processed through ImageGoNord which is under the
 MIT License. Does that make these MIT?
