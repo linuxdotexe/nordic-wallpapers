@@ -15,5 +15,5 @@ This is the result after being processed by ImageGoNord:
 ![](wallpapers/ign_unsplash4.png)
 This one is my favourite :)
 
-## NOTICE
+## NOTE
 This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬 
