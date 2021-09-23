@@ -17,3 +17,12 @@ This one is my favourite :)
 
 ## NOTE
 This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬 
+
+## BTW
+For Arch Linux User, you can just install these wallpapers via AUR.
+
+```bash
+paru -S nordic-wallpapers
+```
+
+You can find these wallpapers in `/usr/share/backgrounds/nordic-wallpapers/`.
