@@ -26,3 +26,11 @@ paru -S nordic-wallpapers
 ```
 
 You can find these wallpapers in `/usr/share/backgrounds/nordic-wallpapers/`.
+
+## Thanks to all the contributors :)
+
+<a href = "https://github.com/linuxdotexe/nordic-wallpapers/graphs/contributors">
+
+  <img src = "https://contrib.rocks/image?repo=linuxdotexe/nordic-wallpapers"/>
+
+</a>
