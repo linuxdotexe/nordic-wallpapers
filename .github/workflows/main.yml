@@ -1,0 +1,38 @@
+name: Update previews
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get list of wallpapers
+        run: ls wallpapers/ > wallpaper-preview.md
+        
+      - name: Add markdown syntax for image preview on each line
+        run: |
+          sed -i -e 's/^/![](wallpapers\//' wallpaper-preview.md
+          sed -i 's/$/\)/' wallpaper-preview.md
+      - name: Add heading and an empty line
+        run: |
+          sed -i '1 i\# Wallpapers in this repository' wallpaper-preview.md
+          sed -i '/# Wallpapers/ a \ ' wallpaper-preview.md
+      - name: Commit wallpaper-preview.md
+        uses: EndBug/add-and-commit@v7.4.0
+        with:
+          message: 'Auto updated preview'
+      - name: Push changes  # push the output folder to your repo
+        run: echo 'I ran'
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
