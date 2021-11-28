@@ -61,6 +61,7 @@
 ![](wallpapers/ign_iceAndFire.jpg)
 ![](wallpapers/ign_leafHelmet.png)
 ![](wallpapers/ign_legendary.png)
+![](wallpapers/ign_lighthouse.png)
 ![](wallpapers/ign_lightning.jpg)
 ![](wallpapers/ign_manInStreet.png)
 ![](wallpapers/ign_mandalorian.jpg)
