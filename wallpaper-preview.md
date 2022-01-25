@@ -75,6 +75,7 @@
 ![](wallpapers/ign_lightning.jpg)
 ![](wallpapers/ign_manInStreet.png)
 ![](wallpapers/ign_mandalorian.jpg)
+![](wallpapers/ign_manjaro.png)
 ![](wallpapers/ign_mountain.png)
 ![](wallpapers/ign_mountains.jpg)
 ![](wallpapers/ign_mountains.png)
