@@ -46,6 +46,7 @@
 ![](wallpapers/ign_blue_red_blue_blond.png)
 ![](wallpapers/ign_car.png)
 ![](wallpapers/ign_chineseIG.png)
+![](wallpapers/ign_chomusuke.png)
 ![](wallpapers/ign_circuit.png)
 ![](wallpapers/ign_city.png)
 ![](wallpapers/ign_cityRain.png)
