@@ -98,6 +98,7 @@
 ![](wallpapers/ign_spiral.jpg)
 ![](wallpapers/ign_starWars.jpg)
 ![](wallpapers/ign_starWarsThing.png)
+![](wallpapers/ign_straw_hat_pirates.png)
 ![](wallpapers/ign_stuff.png)
 ![](wallpapers/ign_sunAndClouds.png)
 ![](wallpapers/ign_sunGarden.png)
