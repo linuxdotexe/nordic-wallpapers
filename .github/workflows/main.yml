@@ -27,7 +27,7 @@ jobs:
           sed -i '1 i\# Wallpapers in this repository' wallpaper-preview.md
           sed -i '/# Wallpapers/ a \ ' wallpaper-preview.md
       - name: Commit wallpaper-preview.md
-        uses: EndBug/add-and-commit@v7.4.0
+        uses: EndBug/add-and-commit@v9
         with:
           message: 'Auto updated preview'
       - name: Push changes  # push the output folder to your repo
