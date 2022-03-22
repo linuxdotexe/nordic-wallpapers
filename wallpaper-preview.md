@@ -71,6 +71,7 @@
 ![](wallpapers/ign_graySpaceship.png)
 ![](wallpapers/ign_groot.png)
 ![](wallpapers/ign_grung_green_yellow_refd.png)
+![](wallpapers/ign_gunshot.png)
 ![](wallpapers/ign_herakles.png)
 ![](wallpapers/ign_highTechGlobe.png)
 ![](wallpapers/ign_iceAndFire.jpg)
