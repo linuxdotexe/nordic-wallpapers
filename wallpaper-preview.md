@@ -166,6 +166,7 @@
 ![](wallpapers/ign_wave.png)
 ![](wallpapers/ign_wild_fish.png)
 ![](wallpapers/ign_witch.png)
+![](wallpapers/ign_wolf.png)
 ![](wallpapers/ign_yayayayayaya.png)
 ![](wallpapers/ign_zorin.png)
 ![](wallpapers/keyboard.png)
