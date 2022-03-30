@@ -110,6 +110,7 @@
 ![](wallpapers/ign_sunAndClouds.png)
 ![](wallpapers/ign_sunGarden.png)
 ![](wallpapers/ign_sunset.png)
+![](wallpapers/ign_sweet_truck.png)
 ![](wallpapers/ign_tokyo.jpg)
 ![](wallpapers/ign_travelling.jpg)
 ![](wallpapers/ign_unicorn.png)
