@@ -19,6 +19,7 @@
 ![](wallpapers/at_the_coffeshop.png)
 ![](wallpapers/audio-bunny.png)
 ![](wallpapers/chemical_nord.png)
+![](wallpapers/container_ship.png)
 ![](wallpapers/cpu_city.png)
 ![](wallpapers/debian-galaxy.png)
 ![](wallpapers/debian.png)
