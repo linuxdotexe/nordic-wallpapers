@@ -92,6 +92,7 @@
 ![](wallpapers/ign_mountains.png)
 ![](wallpapers/ign_nordhills.png)
 ![](wallpapers/ign_nordic_rose.png)
+![](wallpapers/ign_nordic_triangle.png)
 ![](wallpapers/ign_outer_space.png)
 ![](wallpapers/ign_planets.jpg)
 ![](wallpapers/ign_puppyInSpace.jpg)
