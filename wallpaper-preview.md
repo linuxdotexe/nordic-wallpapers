@@ -47,6 +47,7 @@
 ![](wallpapers/ign_black.jpg)
 ![](wallpapers/ign_blue_chains.png)
 ![](wallpapers/ign_blue_red_blue_blond.png)
+![](wallpapers/ign_bratislava.png)
 ![](wallpapers/ign_car.png)
 ![](wallpapers/ign_chainsaw-man.png)
 ![](wallpapers/ign_chineseIG.png)
