@@ -215,6 +215,7 @@
 ![](wallpapers/space_kitty.png)
 ![](wallpapers/street_blues.png)
 ![](wallpapers/subtle_ferns.jpg)
+![](wallpapers/super-mario.png)
 ![](wallpapers/ubuntu-aurora.png)
 ![](wallpapers/ubuntu-frost.png)
 ![](wallpapers/underwater.png)
@@ -223,4 +224,3 @@
 ![](wallpapers/waves.jpg)
 ![](wallpapers/wild.png)
 ![](wallpapers/windows-panic.png)
-![](wallpapers/super-mario.png)
