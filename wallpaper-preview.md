@@ -223,3 +223,4 @@
 ![](wallpapers/waves.jpg)
 ![](wallpapers/wild.png)
 ![](wallpapers/windows-panic.png)
+![](wallpapers/super-mario.png)
