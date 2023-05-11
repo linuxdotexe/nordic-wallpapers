@@ -100,7 +100,6 @@
 ![](wallpapers/ign_puppyInSpace.jpg)
 ![](wallpapers/ign_racecar.png)
 ![](wallpapers/ign_raid_in_the_dark.png)
-![](wallpapers/ign_rick.png)
 ![](wallpapers/ign_rick_3840x2160.png)
 ![](wallpapers/ign_robots.png)
 ![](wallpapers/ign_someGame.jpg)
