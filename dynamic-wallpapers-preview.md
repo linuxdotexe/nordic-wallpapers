@@ -12,14 +12,14 @@
 ![](dynamic-wallpapers/Aura/ign_Aura-2.png)
 
 # BigSur
-![](dynamic-wallpapers/BigSur/ign_Big\ macOS\ Sur-1.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-2.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-3.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-4.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-5.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-6.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-7.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-8.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-1.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-2.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-3.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-4.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-5.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-6.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-7.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-8.jpg)
 
 # BigSurV2
 ![](dynamic-wallpapers/BigSurV2/ign_BigSurV2_01.jpg)
@@ -317,8 +317,8 @@
 ![](dynamic-wallpapers/MaterialMountains/ign_MaterialMountains-2.png)
 
 # Minimal Mojave
-![](dynamic-wallpapers/Minimal Mojave/ign_Minimal Mojave-1.jpg)
-![](dynamic-wallpapers/Minimal Mojave/ign_Minimal Mojave-2.jpg)
+![](dynamic-wallpapers/Minimal_Mojave/ign_Minimal_Mojave-1.jpg)
+![](dynamic-wallpapers/Minimal_Mojave/ign_Minimal_Mojave-2.jpg)
 
 # Mojave
 ![](dynamic-wallpapers/Mojave/ign_mojave_dynamic_10.jpeg)
