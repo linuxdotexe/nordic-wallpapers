@@ -196,6 +196,7 @@
 ![](wallpapers/murky_peaks.jpg)
 ![](wallpapers/nixos.png)
 ![](wallpapers/nord-arctic-fox.png)
+![](wallpapers/nord-balloons.png)
 ![](wallpapers/nord_alone_tree.png)
 ![](wallpapers/nord_bridge.png)
 ![](wallpapers/nord_buildings.png)
