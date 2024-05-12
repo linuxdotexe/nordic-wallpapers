@@ -26,7 +26,7 @@ I found this project [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNor
 3. https://github.com/sponsors/TheJoin95
 4. https://www.paypal.com/paypalme/thejoin
 
-### Converting imags with ImageGoNord
+### Converting images with ImageGoNord
 
 Images can be converted in bulk using `gonord.py`. Just change the input and destinations folders.
 
