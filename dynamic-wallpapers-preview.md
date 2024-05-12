@@ -12,7 +12,7 @@
 ![](dynamic-wallpapers/Aura/ign_Aura-2.png)
 
 # BigSur
-![](dynamic-wallpapers/BigSur/ign_Big\ macOS Sur-1.jpg)
+![](dynamic-wallpapers/BigSur/ign_Big\ macOS\ Sur-1.jpg)
 ![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-2.jpg)
 ![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-3.jpg)
 ![](dynamic-wallpapers/BigSur/ign_Big macOS Sur-4.jpg)
