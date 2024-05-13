@@ -3,11 +3,14 @@ A collection of wallpapers cherry picked from [reddit](https://reddit.com/r/Imag
 [Christian Chiarulli's discord server](https://discord.gg/Xb9B4Ny), [wallhaven](https://wallhaven.cc) and
 [ThePrimeagen's wallpaper repository](https://github.com/ThePrimeagen/anime).
 [Ferrari Las Vegas F1 Pictures](https://www.topgear.com/car-news/formula-one/ferraris-red-n-white-livery-las-vegas-gp).
+[Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers.git).
 Most of 'em "norded" through
 [ImageGoNord](https://ign.schrodinger-hat.it "ImageGoNord") website from
 [Schrödinger-Hat](https://github.com/Schrodinger-Hat).
 
 Previews of the wallpapers can be seen in [here](/wallpaper-preview.md).
+
+Previews of the dynamic-wallpapers can be seen in [here](/dynamic-wallpapers-preview.md).
 
 ## Here is an example
 <img src="https://user-images.githubusercontent.com/74004229/162493570-8fe1a179-fa8c-4a90-97c2-4a813fbb55df.png" width="1000" />
@@ -20,11 +23,15 @@ I found this project [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNor
 
 1. https://opencollective.com/schrodinger-hat
 2. https://github.com/sponsors/Wabri
-3. https://github.com/sponsors/TheJoin95 
+3. https://github.com/sponsors/TheJoin95
 4. https://www.paypal.com/paypalme/thejoin
 
+### Converting images with ImageGoNord
+
+Images can be converted in bulk using `gonord.py`. Just change the input and destinations folders.
+
 ## NOTE
-This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬 
+This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬
 
 ## BTW
 For Arch Linux User, you can just install these wallpapers via AUR.
