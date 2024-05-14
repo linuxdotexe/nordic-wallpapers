@@ -1,13 +1,12 @@
 from ImageGoNord import NordPaletteFile, GoNord
 
 import os
-from ImageGoNord import GoNord
 
 def convert_images_in_folder(folder_path, output_folder):
     go_nord = GoNord()
     for root, dirs, files in os.walk(folder_path):
         for file_name in files:
-            if file_name.endswith(('.jpg', '.jpeg', '.png', '.gif')):
+            if file_name.endswith(('.jpg', '.jpeg', '.png')):
                 image_path = os.path.join(root, file_name)
                 output_path = os.path.join(output_folder, os.path.relpath(root, folder_path), file_name)
                 output_folder_path = os.path.dirname(output_path)
