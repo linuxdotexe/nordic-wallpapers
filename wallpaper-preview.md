@@ -182,6 +182,7 @@
 ![](wallpapers/ign_wanderlust.jpg)
 ![](wallpapers/ign_wave.png)
 ![](wallpapers/ign_wild_fish.png)
+![](wallpapers/ign_windows_11.png)
 ![](wallpapers/ign_witch.png)
 ![](wallpapers/ign_wolf.png)
 ![](wallpapers/ign_yayayayayaya.png)
