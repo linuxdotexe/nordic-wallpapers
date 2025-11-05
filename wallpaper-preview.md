@@ -230,6 +230,7 @@
 ![](wallpapers/ubuntu-aurora.png)
 ![](wallpapers/ubuntu-frost.png)
 ![](wallpapers/underwater.png)
+![](wallpapers/utiity.png)
 ![](wallpapers/voidlinux-01.png)
 ![](wallpapers/voidlinux.png)
 ![](wallpapers/waves.jpg)
