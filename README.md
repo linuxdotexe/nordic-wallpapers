@@ -5,8 +5,8 @@ A collection of wallpapers cherry picked from [reddit](https://reddit.com/r/Imag
 [Ferrari Las Vegas F1 Pictures](https://www.topgear.com/car-news/formula-one/ferraris-red-n-white-livery-las-vegas-gp).
 [Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers.git).
 Most of 'em "norded" through
-[ImageGoNord](https://ign.schrodinger-hat.it "ImageGoNord") website from
-[Schrödinger-Hat](https://github.com/Schrodinger-Hat).
+[ImageGoNord](https://ign.schroedinger-hat.org "ImageGoNord") website from
+[Schrödinger Hat](https://github.com/Schroedinger-Hat).
 
 Previews of the wallpapers can be seen in [here](/wallpaper-preview.md).
 
@@ -19,12 +19,11 @@ This is the [original image](https://images.unsplash.com/photo-1500338427510-5de
 and [this](wallpapers/ign_unsplash4.png) is the result after being processed by ImageGoNord.
 
 ## Made with ImageGoNord
-I found this project [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) and I absolutely loved it. I started making all the wallpapers I liked to match my WM's colorscheme. I then thought I should make this a collection for others to use too since there are many ricing enthusiasts around the world. This could not have been possible without the [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) project by [Schrödinger Hat](https://github.com/Schrodinger-Hat). You can sponser this open-source project through the following links:
+I found this project [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) and I absolutely loved it. I started making all the wallpapers I liked to match my WM's colorscheme. I then thought I should make this a collection for others to use too since there are many ricing enthusiasts around the world. This could not have been possible without the [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) project by [Schrödinger Hat](https://github.com/Schroedinger-Hat). You can sponser this open-source project through the following links:
 
 1. https://opencollective.com/schrodinger-hat
-2. https://github.com/sponsors/Wabri
-3. https://github.com/sponsors/TheJoin95
-4. https://www.paypal.com/paypalme/thejoin
+
+You can also buy their merch at https://shop.schroedinger-hat.org/
 
 ### Converting images with ImageGoNord
 
